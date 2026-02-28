@@ -1,0 +1,7 @@
+openai
+tqdm
+nltk
+pymorphy2
+requests
+numpy
+natasha
